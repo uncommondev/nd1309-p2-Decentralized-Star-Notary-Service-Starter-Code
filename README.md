@@ -136,3 +136,17 @@ compilers: {
 ---
 
 Do not use the [Old depreacted zipped starter code](https://s3.amazonaws.com/video.udacity-data.com/topher/2019/January/5c51c4c0_project-5-starter-code/project-5-starter-code.zip)
+
+# Token Details
+
+## Token Name: StarNotary
+
+## Token Symbol: STR
+
+## Truffle Version: v5.5.4
+
+## OpenZeppelin Version: v2.3
+
+## Contract Address on Rinkeby (Test Network): 0x82571401048D51e290dF65BaB825CF64756625Ba 
+
+## Link to Etherscan to view contract: [Click Here](https://rinkeby.etherscan.io/address/0x82571401048D51e290dF65BaB825CF64756625Ba)
